@@ -1,4 +1,5 @@
-Proyecto_final_apo2
+Proyecto-final-apo2
+
 En este repositorio publicaremos nuestro proyecto final, un juego de towers defense, nuestro juego tendra el nombre de Z-defense
 
 Tower Defense - Primera Versión (Java)
